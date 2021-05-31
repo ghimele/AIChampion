@@ -1,5 +1,5 @@
 # Table of contents
 
 * [AI Champion](README.md)
-* [Machine Learning Algorithms](machine-learning-algorithms.md)
+* [Types of Machine Learning](machine-learning-algorithms.md)
 

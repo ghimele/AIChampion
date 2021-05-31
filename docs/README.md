@@ -6,7 +6,3 @@ description: Notes I took during the AI Champion pathway.
 
 ## Docs branch
 
-
-
-
-
